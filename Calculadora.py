@@ -165,7 +165,7 @@ def audio():
 
 
 root = Tk()
-root.title('Smart Calculator')
+root.title('Calculadora Científica')
 root.config(bg='dodgerblue3')
 root.geometry('680x486+100+100')
 
